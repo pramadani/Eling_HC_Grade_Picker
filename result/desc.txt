@@ -17,7 +17,7 @@
 245150201111030	dewa nyoman satria yudistira	dewanyoman20061	0
 245150201111031	muhammad hafizh faiqunnabil	hafizhfaiq07	0
 245150201111032	raisya nadiva	raisyanadiva26	0
-245150201111033	muhammad nailul murodz	abdullahriski60	0
+245150201111033	muhammad nailul murodz	abdullahriski601	50,00
 245150201111034	claresta rahma el riyanto	clarestarahma	0
 245150201111035	alexander angelo	alexanderangelo	0
 245150201111036	mochammad zhafif hylmi	mochzhafif1123	0
